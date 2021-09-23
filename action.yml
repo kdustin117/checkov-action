@@ -15,7 +15,7 @@ inputs:
     required: false
   quiet:
     description: 'display only failed checks'
-    required: false
+    required: true
   api-key:
     description: 'Environment variable name of the Bridgecrew API key from Bridgecrew app'
     required: false
